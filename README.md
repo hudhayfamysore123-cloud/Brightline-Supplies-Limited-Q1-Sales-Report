@@ -27,4 +27,7 @@ rate against under 1.5% elsewhere
 3. Consider getting rid of the category Paper as it only achieved 50.54% of its total budget plans, and contributed only 2.32% of our total revenue, which suggests it's not a popular category for our customers
 ## Dashboard
 ![Dashboard](Dashboard for Q1 Sales Report Brightline Supplies.png)
+## Tools
+Excel: Xlookup, SUMIFS, PivotTables, conditional formatting, charting
+
 
